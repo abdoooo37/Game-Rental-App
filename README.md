@@ -15,4 +15,4 @@ SQL Server backend with normalized database design
 
 Role-based functionality for Admin, Vendor, and Client
 
-This project was developed as part of a university database systems course and showcases practical application of database design, Windows Forms development, and SQL-based data management.
+This project was developed as part of a Cairo university database systems course and showcases practical application of database design, Windows Forms development, and SQL-based data management.
